@@ -7,3 +7,5 @@ The courses comprising the Data Science Sepcialization are:
 * Exploratory Data Analysis
 * Statitical Inference
 * Regression Models
+
+Git is easy. Git is fun. Thanks Linus!
